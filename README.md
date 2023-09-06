@@ -1,2 +1,2 @@
 # ZippyPowerBanks
-Business Website for Zippy Power Banks
+[Business Website](http://zippypowerbanks.com) for Zippy Power Banks
